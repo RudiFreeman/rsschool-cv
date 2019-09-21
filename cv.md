@@ -1,3 +1,5 @@
+![Alt text](//sun9-60.userapi.com/c850032/v850032665/44295/evNt32McKdk.jpg "My Photo")
+
 ## Full Name
 > Aleksei Strugovshchikov
 
