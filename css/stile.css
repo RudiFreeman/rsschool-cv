@@ -3,17 +3,18 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     width: 1200px;
     margin: 0 auto;
 }
+
 .header {
     height: 700px;
     background: url(/img/photo.JPG) center center/cover no-repeat;
     padding-left: 40%;
     padding-top: 100px;
     border-radius: 10px;
-
 }
 
 .header .title_small {
@@ -22,7 +23,7 @@ body {
     font-size: 40px;
     font-weight: 500;
     margin-left: 20px;
-    text-shadow: 0 0 15px  rgba(255, 255, 255, 0.568);
+    text-shadow: 0 0 15px rgba(255, 255, 255, 0.568);
 }
 
 .header .title {
@@ -50,7 +51,8 @@ main .title {
     padding: 10px 10px 0px 10px;
 }
 
-main .text,.code {
+main .text,
+.code {
     color: #34333f;
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 20px;
@@ -94,8 +96,3 @@ main .even {
 
 main .footer {
     background-color: rgba(0, 47, 255, 0.2);
-
-
-
-
- 
